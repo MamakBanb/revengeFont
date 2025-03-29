@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "revengeFont_name",
+    "previewText": "Text_preview",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/MamakBanb/revengeFont/blob/main/ABCGintoNord-ExtraBold.ttf?raw=1",
+        "ggsans-Bold": "https://github.com/MamakBanb/revengeFont/blob/main/ggsans-Bold.ttf?raw=1",
+        "ggsans-BoldItalic": "https://github.com/MamakBanb/revengeFont/blob/main/ggsans-BoldItalic.ttf?raw=1",
+        "ggsans-ExtraBold": "https://github.com/MamakBanb/revengeFont/blob/main/ggsans-ExtraBold.ttf?raw=1",
+        "ggsans-ExtraBoldItalic": "https://github.com/MamakBanb/revengeFont/blob/main/ggsans-ExtraBoldItalic.ttf?raw=1",
+        "ggsans-Medium": "https://github.com/MamakBanb/revengeFont/blob/main/ggsans-Medium.ttf?raw=1",
+        "ggsans-MediumItalic": "https://github.com/MamakBanb/revengeFont/blob/main/ggsans-MediumItalic.ttf?raw=1",
+        "ggsans-Normal": "https://github.com/MamakBanb/revengeFont/blob/main/ggsans-Normal.ttf?raw=1",
+        "ggsans-NormalItalic": "https://github.com/MamakBanb/revengeFont/blob/main/ggsans-NormalItalic.ttf?raw=1",
+        "ggsans-Semibold": "https://github.com/MamakBanb/revengeFont/blob/main/ggsans-Semibold.ttf?raw=1",
+        "ggsans-SemiboldItalic": "https://github.com/MamakBanb/revengeFont/blob/main/ggsans-SemiboldItalic.ttf?raw=1",
+        "NotoSans-Bold": "https://github.com/MamakBanb/revengeFont/blob/main/NotoSans-Bold.ttf?raw=1",
+        "NotoSans-ExtraBold": "https://github.com/MamakBanb/revengeFont/blob/main/NotoSans-ExtraBold.ttf?raw=1",
+        "NotoSans-Medium": "https://github.com/MamakBanb/revengeFont/blob/main/NotoSans-Medium.ttf?raw=1",
+        "NotoSans-Normal": "https://github.com/MamakBanb/revengeFont/blob/main/NotoSans-Normal.ttf?raw=1",
+        "NotoSans-NormalItalic": "https://github.com/MamakBanb/revengeFont/blob/main/NotoSans-NormalItalic.ttf?raw=1",
+        "NotoSans-Semibold": "https://github.com/MamakBanb/revengeFont/blob/main/NotoSans-Semibold.ttf?raw=1",
+        "ggmono-Normal": "https://github.com/MamakBanb/revengeFont/blob/main/ggmono-Normal.ttf?raw=1"
+    }
+}
